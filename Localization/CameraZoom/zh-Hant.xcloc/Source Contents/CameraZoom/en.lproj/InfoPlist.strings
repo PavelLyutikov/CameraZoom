@@ -1,0 +1,10 @@
+/* Bundle name */
+"CFBundleName" = "CameraZoom";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "CameraZoom запрашивает доступ к камере для съемки фотографий и/или записи видео.";
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "CameraZoom запрашивает доступ к микрофону, чтобы снимать видео со звуком.";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "CameraZoom запрашивает доступ к фотографиям устройства для сохранения фотографий и/или видеороликов.";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "CameraZoom запрашивает доступ к фотографиям устройства для сохранения фотографий и/или видеороликов.";

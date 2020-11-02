@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="CameraZoom/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="it">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>CameraZoom</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>CameraZoom запрашивает доступ к камере для съемки фотографий и/или записи видео.</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSMicrophoneUsageDescription" xml:space="preserve">
+        <source>CameraZoom запрашивает доступ к микрофону, чтобы снимать видео со звуком.</source>
+        <note>Privacy - Microphone Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source>CameraZoom запрашивает доступ к фотографиям устройства для сохранения фотографий и/или видеороликов.</source>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>CameraZoom запрашивает доступ к фотографиям устройства для сохранения фотографий и/или видеороликов.</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CameraZoom/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="it">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="Бесплатно 3 дня" xml:space="preserve">
+        <source>Бесплатно 3 дня</source>
+        <target>3 giorni gratis</target>
+        <note>тайтл4</note>
+      </trans-unit>
+      <trans-unit id="Введите модель вашего телефона" xml:space="preserve">
+        <source>Введите модель вашего телефона</source>
+        <target>Inserisci il tuo modello di telefono</target>
+        <note>Ввод модели</note>
+      </trans-unit>
+      <trans-unit id="Восстановление покупок" xml:space="preserve">
+        <source>Восстановление покупок</source>
+        <target>Ripristino degli acquisti</target>
+        <note>Восстановление покупок</note>
+      </trans-unit>
+      <trans-unit id="Готово" xml:space="preserve">
+        <source>Готово</source>
+        <target>È fatta</target>
+        <note>Готово</note>
+      </trans-unit>
+      <trans-unit id="Доступ к макро съемке" xml:space="preserve">
+        <source>Доступ к макро съемке</source>
+        <target>Accesso alla fotografia macro</target>
+        <note>тайтл2</note>
+      </trans-unit>
+      <trans-unit id="Используйте свою камеру для макро съемки, приближайте мелкие объекты и детали для фото." xml:space="preserve">
+        <source>Используйте свою камеру для макро съемки, приближайте мелкие объекты и детали для фото.</source>
+        <target>Usa la tua fotocamera per scattare foto macro, ingrandire piccoli oggetti e dettagli per le foto</target>
+        <note>Описание макросъемки</note>
+      </trans-unit>
+      <trans-unit id="МАКРОСЪЕМКА" xml:space="preserve">
+        <source>МАКРОСЪЕМКА</source>
+        <target>Fotografia macro</target>
+        <note>Макросъемка</note>
+      </trans-unit>
+      <trans-unit id="Модель iPhone:" xml:space="preserve">
+        <source>Модель iPhone:</source>
+        <target>Modello di iPhone:</target>
+        <note>Модель</note>
+      </trans-unit>
+      <trans-unit id="НАСТРОЙКА ZOOM КАМЕРЫ" xml:space="preserve">
+        <source>НАСТРОЙКА ZOOM КАМЕРЫ</source>
+        <target>IMPOSTAZIONE DELLO ZOOM DELLA FOTOCAMERA</target>
+        <note>Настройка</note>
+      </trans-unit>
+      <trans-unit id="Никакой рекламы" xml:space="preserve">
+        <source>Никакой рекламы</source>
+        <target>Nessuna pubblicità</target>
+        <note>тайтл3</note>
+      </trans-unit>
+      <trans-unit id="Окей" xml:space="preserve">
+        <source>Окей</source>
+        <target>OK</target>
+        <note>Окей</note>
+      </trans-unit>
+      <trans-unit id="Ошибка" xml:space="preserve">
+        <source>Ошибка</source>
+        <target>Errore</target>
+        <note>Ошибка</note>
+      </trans-unit>
+      <trans-unit id="Политика конфиденциальности" xml:space="preserve">
+        <source>Политика конфиденциальности</source>
+        <target>Politica sulla privacy</target>
+        <note>Политика конфиденциальности</note>
+      </trans-unit>
+      <trans-unit id="Приближайте нужный объект для фото до x100 крат увеличения! Для лучшей фокусировки объекта рекомендуем установить телефон на штатив." xml:space="preserve">
+        <source>Приближайте нужный объект для фото до x100 крат увеличения! Для лучшей фокусировки объекта рекомендуем установить телефон на штатив.</source>
+        <target>Ingrandisci il soggetto desiderato per la foto fino a x100 zoom kratom! Per una migliore messa a fuoco del soggetto, si consiglia di montare il telefono su un treppiede.</target>
+        <note>Описание супер зум</note>
+      </trans-unit>
+      <trans-unit id="Продолжить" xml:space="preserve">
+        <source>Продолжить</source>
+        <target>Continuare</target>
+        <note>Продолжить</note>
+      </trans-unit>
+      <trans-unit id="Произошла ошибка при восстановлении покупки. Либо она просрочена, либо не была куплена" xml:space="preserve">
+        <source>Произошла ошибка при восстановлении покупки. Либо она просрочена, либо не была куплена</source>
+        <target>Si è verificato un errore durante il ripristino dell'acquisto. O è scaduto o non è stato acquistato</target>
+        <note>Сообщение ошибки</note>
+      </trans-unit>
+      <trans-unit id="СУПЕР ZOOM" xml:space="preserve">
+        <source>СУПЕР ZOOM</source>
+        <target>SUPER ZOOM</target>
+        <note>Супер зум</note>
+      </trans-unit>
+      <trans-unit id="Супер Zoom x100 увеличение" xml:space="preserve">
+        <source>Супер Zoom x100 увеличение</source>
+        <target>Super Zoom x100 ingrandimento</target>
+        <note>тайтл1</note>
+      </trans-unit>
+      <trans-unit id="Условия обслуживания" xml:space="preserve">
+        <source>Условия обслуживания</source>
+        <target>Termini di servizio</target>
+        <note>Условия обслуживания</note>
+      </trans-unit>
+      <trans-unit id="Фокусировка:" xml:space="preserve">
+        <source>Фокусировка:</source>
+        <target>Messa a fuoco:</target>
+        <note>Фокусировка</note>
+      </trans-unit>
+      <trans-unit id="и" xml:space="preserve">
+        <source>и</source>
+        <target>anche</target>
+        <note>й</note>
+      </trans-unit>
+      <trans-unit id="максимальное приближение" xml:space="preserve">
+        <source>максимальное приближение</source>
+        <target>massima approssimazione</target>
+        <note>дескрипшион1</note>
+      </trans-unit>
+      <trans-unit id="полный функционал" xml:space="preserve">
+        <source>полный функционал</source>
+        <target>funzionalità completa</target>
+        <note>дескрипшион3</note>
+      </trans-unit>
+      <trans-unit id="потом 1 000 ₽ / неделю" xml:space="preserve">
+        <source>потом 1 000 ₽ / неделю</source>
+        <target>poi 11.5 € / settimana</target>
+        <note>дескрипшион4</note>
+      </trans-unit>
+      <trans-unit id="снимайте мелкие детали" xml:space="preserve">
+        <source>снимайте мелкие детали</source>
+        <target>rimuovere piccoli dettagli</target>
+        <note>дескрипшион2</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CameraZoom/Supporting Files/Base.lproj/Main.storyboard" source-language="en" target-language="it" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3.1" build-num="11C504"/>
+    </header>
+    <body>
+      <trans-unit id="LZ1-7A-cLN.normalTitle" xml:space="preserve">
+        <source>Сохранить</source>
+        <target>Сохранить</target>
+        <note>Class = "UIButton"; normalTitle = "Сохранить"; ObjectID = "LZ1-7A-cLN";</note>
+      </trans-unit>
+      <trans-unit id="bNX-av-i5Q.normalTitle" xml:space="preserve">
+        <source>Удалить</source>
+        <target>Удалить</target>
+        <note>Class = "UIButton"; normalTitle = "Удалить"; ObjectID = "bNX-av-i5Q";</note>
+      </trans-unit>
+      <trans-unit id="gwR-4F-hVZ.normalTitle" xml:space="preserve">
+        <source>Сохранить</source>
+        <target>Сохранить</target>
+        <note>Class = "UIButton"; normalTitle = "Сохранить"; ObjectID = "gwR-4F-hVZ";</note>
+      </trans-unit>
+      <trans-unit id="tHp-5R-xuE.normalTitle" xml:space="preserve">
+        <source>Удалить</source>
+        <target>Удалить</target>
+        <note>Class = "UIButton"; normalTitle = "Удалить"; ObjectID = "tHp-5R-xuE";</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

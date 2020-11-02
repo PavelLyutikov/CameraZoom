@@ -1,0 +1,15 @@
+${PODS_ROOT}/Target Support Files/Pods-CameraZoom/Pods-CameraZoom-frameworks.sh
+${BUILT_PRODUCTS_DIR}/cocoapods-artifacts-${CONFIGURATION}.txt
+${BUILT_PRODUCTS_DIR}/BadgeControl/BadgeControl.framework
+${BUILT_PRODUCTS_DIR}/FirebaseCore/FirebaseCore.framework
+${BUILT_PRODUCTS_DIR}/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.framework
+${BUILT_PRODUCTS_DIR}/FirebaseInstallations/FirebaseInstallations.framework
+${BUILT_PRODUCTS_DIR}/GoogleDataTransport/GoogleDataTransport.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/PixelSDK-GPUImage3/GPUImage.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/PryntTrimmerView/PryntTrimmerView.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SteviaLayout/Stevia.framework
+${BUILT_PRODUCTS_DIR}/YPImagePicker/YPImagePicker.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework
