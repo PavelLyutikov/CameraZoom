@@ -4,7 +4,8 @@ This project is written to familiarize you with working with the camera in appli
 
 ____
 
-![gif](https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/macro.gif?raw=true) ![gif2](https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/zoom.gif?raw=true)
+<img src="https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/macro.gif?raw=true" title="" alt="" width="200">
+![gif2](https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/zoom.gif?raw=true)
 ____
 
 ### Functions
