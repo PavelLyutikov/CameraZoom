@@ -4,7 +4,7 @@ This project is written to familiarize you with working with the camera in appli
 
 ____
 
-[gif](что-то)
+[gif](https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/macro.gif?raw=true) [gif2](https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/zoom.gif?raw=true)
 
 ____
 
