@@ -22,7 +22,7 @@ ____
 
 ____
 
-![screenshot](https://im.wampi.ru/2022/08/03/Group-165.png)
+![screenshot](https://github.com/PavelLyutikov/CameraZoom/blob/master/screenshot:gif/screenshot.png?raw=true)
 
 ____
 
